@@ -1,0 +1,24 @@
+{
+  "players": [
+    {
+      "camiseta": "M",
+      "cc": "7654455567",
+      "contacto": "423552626",
+      "cuidad": "medellin",
+      "eps": "colmedica",
+      "name": "Jose Andres Garcia",
+      "pantaloneta": "M",
+      "posicion": "centro"
+    },
+    {
+      "camiseta": "s",
+      "cc": "23423432412",
+      "contacto": "078973454",
+      "cuidad": "Cartagena",
+      "eps": "colmedica",
+      "name": "Andres Betancour",
+      "pantaloneta": "L",
+      "posicion": "Defensa"
+    }
+  ]
+}
